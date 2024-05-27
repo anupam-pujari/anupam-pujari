@@ -6,6 +6,7 @@ I'm always eager to learn new technologies and improve my skills through hands-o
 
 🌟 About Me
 📚 Education: B.Tech in CSIT at C V RAMAN GLOBAL UNIVERSITY, BHUBANESWAR
+
 🔭 Current Project: Building a Zomato Clone using HTML, CSS
 🌱 Currently Learning:JavaScript
 💡 Future Interests: Web Development, Databases, Computer Organization
