@@ -5,7 +5,7 @@ I'm a passionate and dedicated student currently pursuing my B.Tech in Computer 
 I'm always eager to learn new technologies and improve my skills through hands-on projects and collaborations.
 
 🌟 About Me
-📚 Education: B.Tech in CSIT at [Your University]
+📚 Education: B.Tech in CSIT at C V RAMAN GLOBAL UNIVERSITY, BHUBANESWAR
 🔭 Current Project: Building a Zomato Clone using HTML, CSS
 🌱 Currently Learning:JavaScript
 💡 Future Interests: Web Development, Databases, Computer Organization
