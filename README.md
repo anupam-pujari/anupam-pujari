@@ -7,7 +7,7 @@ I'm always eager to learn new technologies and improve my skills through hands-o
 🌟 About Me
 📚 Education: B.Tech in CSIT at C V RAMAN GLOBAL UNIVERSITY, BHUBANESWAR
 
-🔭 Current Project: Building a Zomato Clone using HTML, CSS
+🔭 Current Project: Building a Amazon Clone using HTML, CSS
 🌱 Currently Learning:JavaScript
 💡 Future Interests: Web Development, Databases, Computer Organization
 🛠️ Skills and Technologies
@@ -19,6 +19,8 @@ I'm always eager to learn new technologies and improve my skills through hands-o
 🚀 Projects
 📌 Zomato Clone
 A web application clone of the popular food delivery service Zomato. This project helped me understand the basics of front-end development and improve my coding skills.
+📌 Amazon Clone
+A web application clone of the popular e-commerce platform Amazon. This project allowed me to deepen my understanding of web development and enhance my skills in building complex user interfaces.
 
 Technologies Used: HTML, CSS
 Description: A responsive web application that mimics the core functionalities of Zomato, including restaurant listings, search features, and user interface design.
