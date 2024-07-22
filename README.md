@@ -35,6 +35,14 @@ Technologies Used: HTML, CSS
 Description: A responsive web application that replicates the main features of Amazon, including product listings, search functionality, and a user-friendly interface design.
 View Project: https://github.com/anupam-pujari/amazon_clone
 
+📌 Tic Tac Toe Game: This was my first project where I learned the fundamentals of JavaScript and applied them to create a fully functional game. 
+It was a fun and challenging experience that taught me a lot about game logic and DOM manipulation.
+View Project: https://github.com/anupam-pujari/tic-tac-toe
+
+📌 Scientific Calculator: Building on my knowledge, I developed a scientific calculator that can handle various complex calculations. 
+This project helped me understand more advanced JavaScript concepts and how to create a user-friendly interface with HTML and CSS.
+View Project: https://github.com/anupam-pujari/scientific_calc
+
 
 📫 Let's Connect!
 
