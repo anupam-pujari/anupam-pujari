@@ -1,4 +1,4 @@
-👋 Hi, I’m @anupam-pujari
+👋 Hi, I’m Anupam Pujari
 
 🎓 B.Tech in Computer Science and Information Technology Student | 2nd Year
 I'm a passionate and dedicated student currently pursuing my B.Tech in Computer Science and Information Technology (CSIT). 
