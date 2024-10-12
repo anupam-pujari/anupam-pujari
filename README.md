@@ -1,13 +1,13 @@
 👋 Hi, I’m Anupam Pujari
 
-🎓 B.Tech in Computer Science and Information Technology Student | 2nd Year
+🎓 B.Tech in Computer Science and Information Technology Student | #rd Year
 I'm a passionate and dedicated student currently pursuing my B.Tech in Computer Science and Information Technology (CSIT). 
 I'm always eager to learn new technologies and improve my skills through hands-on projects and collaborations.
 
 🌟 About Me
 📚 Education: B.Tech in CSIT at C V RAMAN GLOBAL UNIVERSITY, BHUBANESWAR
 
-🔭 Current Project: Building a Amazon Clone using HTML, CSS
+🔭 Current Project: Learning Android App Dev
 
 🌱 Currently Learning:JavaScript
 
@@ -20,6 +20,10 @@ I'm always eager to learn new technologies and improve my skills through hands-o
     Other Skills: Understanding of computer organization and architecture
 
 🚀 Projects
+
+🌐 Portfolio:
+Check out my portfolio for more details about my projects and skills!
+View Portfolio: (My Portfolio)[anupam--portfolio.vercel.app]
 
 📌 **Zomato Clone**
 A web application clone of the popular food delivery service Zomato. This project helped me understand the basics of front-end development and improve my coding skills.
