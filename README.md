@@ -9,7 +9,7 @@ I'm always eager to learn new technologies and improve my skills through hands-o
 
 🔭 Current Project: Learning Android App Dev
 
-🌱 Currently Learning:JavaScript
+🌱 Currently Learning: Android Studio
 
 💡 Future Interests: Web Development, Databases, Computer Organization
 
