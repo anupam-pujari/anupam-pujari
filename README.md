@@ -31,22 +31,21 @@ When I'm not coding, you can find me exploring the latest anime, reading a tech 
 1. **[AskMyPDF](https://github.com/anupam-pujari/AskMyPDF)**
    - _A RAG-based AI application that lets you chat with your PDF documents._
    - **Tech:** `Python`, `Svelte`, `FastAPI`, `Redis`
-2. **[Heart Disease Prediction](https://github.com/anupam-pujari/Heart_Disease_Prediction)**
-   - _ML project to predict the likelihood of heart disease using patient data._
-   - **Tech:** `Python`, `Scikit-Learn`
-3. **[Talent_Bridge](https://github.com/anupam-pujari/Talent_Bridge)**
+2. **[Talent_Bridge](https://github.com/anupam-pujari/Talent_Bridge)**
    - _A platform connecting skilled talents with opportunities._
    - **Tech:** `Python`, `HTML/CSS`, `JS`
-4. **[Netflix Clone](https://github.com/anupam-pujari/netflix_clone)**
+3. **[Netflix Clone](https://github.com/anupam-pujari/netflix_clone)**
    - _High-fidelity clone of the Netflix streaming interface._
    - **Tech:** `React`/`HTML`, `Tailwind`
-5. **[Amazon Clone](https://github.com/anupam-pujari/amazon_clone)**
+4. **[Amazon Clone](https://github.com/anupam-pujari/amazon_clone)**
    - _Functional e-commerce replica with cart and checkout simulation._
    - **Tech:** `React`, `Firebase`
-
+5. **[Heart Disease Prediction](https://github.com/anupam-pujari/Heart_Disease_Prediction)**
+   - _ML project to predict the likelihood of heart disease using patient data._
+   - **Tech:** `Python`, `Scikit-Learn`
 ---
 ## 📊 GitHub Stats & Activity
-[![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anupam-pujari)
+[![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anupam-pujari)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-pujari&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anupam-pujari)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupam-pujari&theme=tokyonight&hide_border=true)](https://github.com/anupam-pujari)
 ---
