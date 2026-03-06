@@ -12,6 +12,17 @@ Currently, I'm diving deeper into **Machine Learning** algorithms to enhance my 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/anupam-pujari-344376254)
 - Check out my projects on [GitHub](https://github.com/anupam-pujari)
 - Reach me via email: [anupampujari@example.com](mailto:anupampujari@example.com)
+## 🔮 What I'd Like to Learn Next
+1. ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Cloud adventures await!: AWS
+2. ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) Containerize all the things: Docker
+3. ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) Master of containers: Kubernetes
+4. ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Command line ninja: Linux
+5. ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) JavaScript Backend Ecosystem: Node.js & beyond
+6. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) Java Backend Ecosystem: Spring into action
+## 🌱 Fun Fact
+When I'm not coding, you can find me exploring the latest anime, reading a tech blog, or just enjoying a good book.
+## 🎧 Last Played Spotify Songs
+[![Spotify](https://github-readme-spotify-profile.vercel.app/api/spotify?user=anupampujari&theme=dark)](https://open.spotify.com/user/anupampujari)
 ---
 ## 🛠️ Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma&theme=dark)
