@@ -1,68 +1,41 @@
-# 👋 Hi, I'm Anupam Pujari! 🚀
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupam-pujari&color=blue&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/anupam-pujari?label=Follow&style=for-the-badge&color=212121&labelColor=333" alt="Followers" />
-</p>
-<br/>
+# Hi there, I'm Anupam Pujari! 👋
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and an **AI Enthusiast** focused on building scalable web applications and exploring the potential of Retrieval-Augmented Generation (RAG).
+![Views](https://komarev.com/ghpvc/?username=anupam-pujari&color=blue&style=flat-square) ![Followers](https://img.shields.io/github/followers/anupam-pujari?label=Follow&style=flat-square&color=212121&labelColor=333)
 ---
-<br/>
-### 👨‍💻 About Me
-I'm a **Full-Stack Developer** and **AI Enthusiast** passionate about building scalable web applications and exploring the potential of Retrieval-Augmented Generation (RAG). Based on my portfolio, I enjoy solving complex problems through clean code and intuitive user interfaces.
-- 🔭 I’m currently working on enhancing **[AskMyPDF](https://github.com/anupam-pujari/AskMyPDF)**, a sophisticated RAG application.
-- 🌱 I’m currently learning deeper **Machine Learning** and **Advanced System Design**.
-- 💬 Ask me about **Svelte, FastAPI, or building clones of popular platforms**.
-- ⚡ Fun fact: I love building pixel-perfect clones to master frontend intricacies!
-<br/>
+## 🌟 Highlights
+- **AI & RAG Applications**: I'm deeply passionate about integrating AI into practical applications, specifically focusing on Retrieval-Augmented Generation (RAG) with tools like my `AskMyPDF` project.
+- **Full-Stack Clones**: I enjoy mastering frontend and backend intricacies by building pixel-perfect, high-fidelity clones of complex platforms like Netflix, Amazon, and Zomato.
+- **Problem Solver**: I excel at turning complex requirements into clean, efficient, and scalable code.
+## 📚 What I'm Learning
+Currently, I'm diving deeper into **Machine Learning** algorithms to enhance my AI projects, and studying **Advanced System Design** to ensure the applications I build can scale effectively.
+## 🌐 Find Me Around the Web
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/anupam-pujari-344376254)
+- Check out my projects on [GitHub](https://github.com/anupam-pujari)
+- Reach me via email: [anupampujari@example.com](mailto:anupampujari@example.com)
 ---
-<br/>
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev outline">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma" />
-  </a>
-</p>
-<br/>
+## 🛠️ Tech Stack & Tools
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma&theme=dark)
 ---
-<br/>
-### 📊 GitHub Stats & Activity
-<p align="center">
-  <a href="https://github.com/anupam-pujari">
-    <img src="https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anupam's GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/anupam-pujari">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-pujari&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
-</p>
-<br/>
-<p align="center">
-  <a href="https://github.com/anupam-pujari">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-pujari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-<br/>
+## 🌟 Featured Projects
+1. **[AskMyPDF](https://github.com/anupam-pujari/AskMyPDF)**
+   - _A RAG-based AI application that lets you chat with your PDF documents._
+   - **Tech:** `Python`, `Svelte`, `FastAPI`, `Redis`
+2. **[Talent_Bridge](https://github.com/anupam-pujari/Talent_Bridge)**
+   - _A platform connecting skilled talents with opportunities._
+   - **Tech:** `Python`, `HTML/CSS`, `JS`
+3. **[Netflix Clone](https://github.com/anupam-pujari/netflix_clone)**
+   - _High-fidelity clone of the Netflix streaming interface._
+   - **Tech:** `React`/`HTML`, `Tailwind`
+4. **[Amazon Clone](https://github.com/anupam-pujari/amazon_clone)**
+   - _Functional e-commerce replica with cart and checkout simulation._
+   - **Tech:** `React`, `Firebase`
+5. **[Heart Disease Prediction](https://github.com/anupam-pujari/Heart_Disease_Prediction)**
+   - _ML project to predict the likelihood of heart disease using patient data._
+   - **Tech:** `Python`, `Scikit-Learn`
 ---
-<br/>
-### 🌟 Featured Projects
-| Project                                                                                   | Description                                                               | Tech Stack                             |
-| :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------- |
-| **[AskMyPDF](https://github.com/anupam-pujari/AskMyPDF)**                                 | A RAG-based AI application that lets you chat with your PDF documents.    | `Python`, `Svelte`, `FastAPI`, `Redis` |
-| **[Talent_Bridge](https://github.com/anupam-pujari/Talent_Bridge)**                       | A platform connecting skilled talents with opportunities.                 | `Python`, `HTML/CSS`, `JS`             |
-| **[Netflix Clone](https://github.com/anupam-pujari/netflix_clone)**                       | High-fidelity clone of the Netflix streaming interface.                   | `React`/`HTML`, `Tailwind`             |
-| **[Amazon Clone](https://github.com/anupam-pujari/amazon_clone)**                         | Functional e-commerce replica with cart and checkout simulation.          | `React`, `Firebase`                    |
-| **[Heart Disease Prediction](https://github.com/anupam-pujari/Heart_Disease_Prediction)** | ML project to predict the likelihood of heart disease using patient data. | `Python`, `Scikit-Learn`               |
-<br/>
+## 📊 GitHub Stats & Activity
+[![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anupam-pujari)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-pujari&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anupam-pujari)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anupam-pujari&theme=tokyonight&hide_border=true)](https://github.com/anupam-pujari)
 ---
-<br/>
-### 📬 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/anupam-pujari-344376254" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anupampujari@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-</p>
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
