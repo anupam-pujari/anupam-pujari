@@ -3,29 +3,46 @@
   <img src="https://komarev.com/ghpvc/?username=anupam-pujari&color=blue&style=for-the-badge" alt="Views" />
   <img src="https://img.shields.io/github/followers/anupam-pujari?label=Follow&style=for-the-badge&color=212121&labelColor=333" alt="Followers" />
 </p>
+<br/>
 ---
+<br/>
 ### 👨‍💻 About Me
 I'm a **Full-Stack Developer** and **AI Enthusiast** passionate about building scalable web applications and exploring the potential of Retrieval-Augmented Generation (RAG). Based on my portfolio, I enjoy solving complex problems through clean code and intuitive user interfaces.
 - 🔭 I’m currently working on enhancing **[AskMyPDF](https://github.com/anupam-pujari/AskMyPDF)**, a sophisticated RAG application.
 - 🌱 I’m currently learning deeper **Machine Learning** and **Advanced System Design**.
 - 💬 Ask me about **Svelte, FastAPI, or building clones of popular platforms**.
 - ⚡ Fun fact: I love building pixel-perfect clones to master frontend intricacies!
+<br/>
 ---
+<br/>
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma" />
+  <a href="https://skillicons.dev outline">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma" />
+  </a>
 </p>
+<br/>
 ---
+<br/>
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anupam's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-pujari&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <a href="https://github.com/anupam-pujari">
+    <img src="https://github-readme-stats.vercel.app/api?username=anupam-pujari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anupam's GitHub Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/anupam-pujari">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-pujari&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
 </p>
+<br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-pujari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/anupam-pujari">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-pujari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
+<br/>
 ---
+<br/>
 ### 🌟 Featured Projects
 | Project                                                                                   | Description                                                               | Tech Stack                             |
 | :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :------------------------------------- |
@@ -34,7 +51,9 @@ I'm a **Full-Stack Developer** and **AI Enthusiast** passionate about building s
 | **[Netflix Clone](https://github.com/anupam-pujari/netflix_clone)**                       | High-fidelity clone of the Netflix streaming interface.                   | `React`/`HTML`, `Tailwind`             |
 | **[Amazon Clone](https://github.com/anupam-pujari/amazon_clone)**                         | Functional e-commerce replica with cart and checkout simulation.          | `React`, `Firebase`                    |
 | **[Heart Disease Prediction](https://github.com/anupam-pujari/Heart_Disease_Prediction)** | ML project to predict the likelihood of heart disease using patient data. | `Python`, `Scikit-Learn`               |
+<br/>
 ---
+<br/>
 ### 📬 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/anupam-pujari-344376254" target="_blank">
