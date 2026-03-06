@@ -23,7 +23,7 @@ Currently, I'm diving deeper into **Machine Learning** algorithms to enhance my 
 6. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) Java Backend Ecosystem: Spring into action
 ## 🌱 Fun Fact
 When I'm not coding, you can find me exploring the latest anime, reading a tech blog, or just enjoying a good book.
-[(https://camo.githubusercontent.com/a0daaa25e17b30ddfc4c79e1b6c8b2c13283a48f036785dedd57c9f1a3104c8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966)
+![currently](https://camo.githubusercontent.com/a0daaa25e17b30ddfc4c79e1b6c8b2c13283a48f036785dedd57c9f1a3104c8c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966)
 ---
 ## 🛠️ Tech Stack & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,js,ts,svelte,html,css,fastapi,flask,django,mongodb,postgres,redis,celery,docker,git,github,vscode,pycharm,figma&theme=dark)
